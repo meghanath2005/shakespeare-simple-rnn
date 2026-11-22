@@ -1,0 +1,9 @@
+{
+  "best_epoch": 25,
+  "test_loss": 1.8532821294972714,
+  "test_accuracy": 0.466762331838565,
+  "test_perplexity": 6.3807275665390515,
+  "baseline_accuracy": 0.14899551569506728,
+  "baseline_character": " ",
+  "device": "NVIDIA GeForce RTX 5070 Laptop GPU"
+}
